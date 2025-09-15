@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<modded_inputs>
+    <inputs>
+        <actions>
+            <input name="UAZenLazyAction" loc="#STR_ZenLazyAction_Control" visible="true" />
+        </actions>
+		<sorting name="ZEN" loc="ZEN">
+			<input name="UAZenLazyAction"/>
+		</sorting>
+    </inputs>
+    <preset>
+		<input name="UAZenLazyAction">
+            <btn name="kLControl">
+            </btn>
+        </input>
+    </preset>
+</modded_inputs>
