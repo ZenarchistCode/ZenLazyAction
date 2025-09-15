@@ -1,6 +1,6 @@
 [h1]What Is This?[/h1]
 
-This mod adds the ability to perform continuous actions without holding down the mouse key IF you hold a hotkey before starting the action.
+This mod adds the ability to perform continuous actions without holding down the mouse button IF you hold a hotkey before starting the action.
 
 You can re-bind the hotkey in the settings menu - by default it's left CTRL.
 
